@@ -1,0 +1,8 @@
+# Default ignored files
+/../../house-price /.idea/shelf/
+/../../house-price /.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../house-price /.idea/httpRequests/
+# Datasource local storage ignored files
+/../../house-price /.idea/dataSources/
+/../../house-price /.idea/dataSources.local.xml
